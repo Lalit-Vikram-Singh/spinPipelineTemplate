@@ -196,8 +196,19 @@
     "2"
    ],
    "type": "manualJudgment"
+  },
+  {
+   "failPipeline": true,
+   "judgmentInputs": [],
+   "name": "Manual Judgment",
+   "notifications": [],
+   "refId": "9",
+   "requisiteStageRefIds": [
+    "8"
+   ],
+   "type": "manualJudgment"
   }
  ],
  "triggers": [],
- "updateTs": "1543913543615"
+ "updateTs": "1544106983927"
 }
